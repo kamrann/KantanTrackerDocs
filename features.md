@@ -1,4 +1,4 @@
-Features
+## Features
 - Plot float and integer properties in realtime for any actor, component or subobject in the world.
 - Multiple properties from a single object on one plot, or alternatively plot the same property for multiple objects.
 - Multiple simultaneous plots, optionally attached to different worlds (for multiplayer PIE).

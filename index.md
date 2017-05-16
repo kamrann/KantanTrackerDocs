@@ -1,5 +1,10 @@
-## Welcome to GitHub Pages
+## Kantan Tracker Documentation
 
+# Overview
+Kantan Tracker is an editor tool designed to assist with development and debugging of gameplay code. It provides instant realtime plotting of property values from any actors/components during play-in-editor, without the need to add debug code/blueprint nodes.
+
+
+---------------------------
 You can use the [editor on GitHub](https://github.com/kamrann/KantanTrackerDocs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

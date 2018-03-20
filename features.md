@@ -6,3 +6,5 @@
 - Save and reload plot configurations to quickly repeat tests on different runs of PIE/editor.
 - Save and reload actual plots for easy comparison between runs.
 - Supports plotting at substep frequency for debugging manually substepped physics simulations.
+
+[Index]({{ site.baseurl }}{% link index.md %})

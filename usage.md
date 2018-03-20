@@ -27,3 +27,5 @@ The status display lists current configuration details, and provides feedback ic
 
 ### Plot
 The plot itself displays a series legend and automatic axis scaling and labelling. It is possible to manually adjust axis ranges via the command bar, and the visual appearance of the plot can be controlled from the plugin settings.
+
+[Index]({{ site.baseurl }}{% link index.md %})

@@ -8,3 +8,5 @@ The Kantan Tracker window can be opened from the Window|Developer Tools menu, or
 
 ## Plugin Settings
 The plugin settings are located in Project Settings, under the Plugins section.
+
+[Index]({{ site.baseurl }}{% link index.md %})
